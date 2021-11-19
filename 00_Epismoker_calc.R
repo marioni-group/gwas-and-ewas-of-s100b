@@ -31,5 +31,5 @@ load("/Cluster_Filespace/Marioni_Group/LBC/LBC_methylation/Beta_3525_norm_bgcorr
 result2 <- epismoker(dataset=dat, method = "SSc")
 
 Save out data scores for smoking
-write.rds("/Cluster_Filespace/Marioni_Group/Danni/lbc_epismoker.rds")
+write.rds("/Cluster_Filespace/Marioni_Group/Danni/lbc_epismoker.rds") 
 
